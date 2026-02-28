@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: bf46829902c745943934f03285d6e3ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8685295676140258193
+    second: Win Lose Screen _ Crown_0
+  - first:
+      213: -1777703690955133263
+    second: Win Lose Screen _ Crown_1
+  - first:
+      213: -6713824343377603782
+    second: Win Lose Screen _ Crown_2
+  - first:
+      213: -5890787733586529361
+    second: Win Lose Screen _ Crown_3
+  - first:
+      213: -1635653451356238310
+    second: Win Lose Screen _ Crown_4
+  - first:
+      213: -6870875332792279637
+    second: Win Lose Screen _ Crown_5
+  - first:
+      213: -6607609591343748238
+    second: Win Lose Screen _ Crown_6
+  - first:
+      213: 1423777927251062612
+    second: Win Lose Screen _ Crown_7
+  - first:
+      213: 2649581838313775492
+    second: Win Lose Screen _ Crown_8
+  - first:
+      213: -7054764605317826220
+    second: Win Lose Screen _ Crown_9
+  - first:
+      213: 1635327712212947650
+    second: Win Lose Screen _ Crown_10
+  - first:
+      213: -6227636191410664349
+    second: Win Lose Screen _ Crown_11
+  - first:
+      213: -2635042840370987020
+    second: Win Lose Screen _ Crown_12
+  - first:
+      213: -462659069018366077
+    second: Win Lose Screen _ Crown_13
+  - first:
+      213: 542588756264484718
+    second: Win Lose Screen _ Crown_14
+  - first:
+      213: -6342935762113249702
+    second: Win Lose Screen _ Crown_15
+  - first:
+      213: -2068719504678825630
+    second: Win Lose Screen _ Crown_16
+  - first:
+      213: 7214780441239984812
+    second: Win Lose Screen _ Crown_17
+  - first:
+      213: 3687151347123767951
+    second: Win Lose Screen _ Crown_18
+  - first:
+      213: 8025762151363422251
+    second: Win Lose Screen _ Crown_19
+  - first:
+      213: 4426452159448581366
+    second: Win Lose Screen _ Crown_20
+  - first:
+      213: -3203177751758793043
+    second: Win Lose Screen _ Crown_21
+  - first:
+      213: -252903264047119447
+    second: Win Lose Screen _ Crown_22
+  - first:
+      213: -6207961705827665408
+    second: Win Lose Screen _ Crown_23
+  - first:
+      213: 4027617083742931153
+    second: Win Lose Screen _ Crown_24
+  - first:
+      213: -1605532482167088977
+    second: Win Lose Screen _ Crown_25
+  - first:
+      213: -2056520741265287293
+    second: Win Lose Screen _ Crown_26
+  - first:
+      213: -4335882256363497322
+    second: Win Lose Screen _ Crown_27
+  - first:
+      213: 2081594840061337514
+    second: Win Lose Screen _ Crown_28
+  - first:
+      213: 2095298731001591060
+    second: Win Lose Screen _ Crown_29
+  - first:
+      213: -1769721816397805705
+    second: Win Lose Screen _ Crown_30
+  - first:
+      213: -8654569664618344798
+    second: Win Lose Screen _ Crown_31
+  - first:
+      213: -8424477609916428962
+    second: Win Lose Screen _ Crown_32
+  - first:
+      213: 5430498689628306171
+    second: Win Lose Screen _ Crown_33
+  - first:
+      213: 2571144495753900564
+    second: Win Lose Screen _ Crown_34
+  - first:
+      213: 3036807632691740748
+    second: Win Lose Screen _ Crown_35
+  - first:
+      213: 7690913042335060276
+    second: Win Lose Screen _ Crown_36
+  - first:
+      213: 5777623021341414693
+    second: Win Lose Screen _ Crown_37
+  - first:
+      213: 3559774205780226361
+    second: Win Lose Screen _ Crown_38
+  - first:
+      213: 7730634613055124574
+    second: Win Lose Screen _ Crown_39
+  - first:
+      213: 1495666412743147374
+    second: Win Lose Screen _ Crown_40
+  - first:
+      213: -1844939598647697216
+    second: Win Lose Screen _ Crown_41
+  - first:
+      213: 5667425166335223400
+    second: Win Lose Screen _ Crown_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 114
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c7c666991a77780800000000000000
+      internalID: -8685295676140258193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 162
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bee7b869e35457e0800000000000000
+      internalID: -1777703690955133263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 115
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a339b90c454b3d2a0800000000000000
+      internalID: -6713824343377603782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 116
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3b85c54c7bf3ea0800000000000000
+      internalID: -5890787733586529361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 117
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e05402addfc49e0800000000000000
+      internalID: -1635653451356238310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 116
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad1cecc94fb5a0a0800000000000000
+      internalID: -6870875332792279637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 115
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bed75d51e0d44a0800000000000000
+      internalID: -6607609591343748238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_7
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 163
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f67d83b7642c310800000000000000
+      internalID: 1423777927251062612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_8
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 114
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481e404d4a435c420800000000000000
+      internalID: 2649581838313775492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 164
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459380e18f0781e90800000000000000
+      internalID: -7054764605317826220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_10
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 113
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c21ec1d3e9d1b610800000000000000
+      internalID: 1635327712212947650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_11
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 163
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cc99c11edf299a0800000000000000
+      internalID: -6227636191410664349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 114
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff30cb6f727e6bd0800000000000000
+      internalID: -2635042840370987020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 114
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f1c0b270e4499f0800000000000000
+      internalID: -462659069018366077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 114
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ff34c5999a78700800000000000000
+      internalID: 542588756264484718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_15
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 115
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e3e1ad78d59f7a0800000000000000
+      internalID: -6342935762113249702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 18
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26152bf229e6a43e0800000000000000
+      internalID: -2068719504678825630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 66
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa9b84f59c002460800000000000000
+      internalID: 7214780441239984812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 18
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a4a666d946b2330800000000000000
+      internalID: 3687151347123767951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 66
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28aac3872c316f60800000000000000
+      internalID: 8025762151363422251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 17
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4813369caed6d30800000000000000
+      internalID: 4426452159448581366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 67
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da69bf15ec60c83d0800000000000000
+      internalID: -3203177751758793043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 66
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a34fef32d18d7cf0800000000000000
+      internalID: -252903264047119447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 17
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00af9e048b3e8d9a0800000000000000
+      internalID: -6207961705827665408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_24
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 67
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8cacff568f4e730800000000000000
+      internalID: 4027617083742931153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 19
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa85415c6b008b9e0800000000000000
+      internalID: -1605532482167088977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 66
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387d8af1845c573e0800000000000000
+      internalID: -2056520741265287293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_27
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 17
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698d8817f0ad3d3c0800000000000000
+      internalID: -4335882256363497322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_28
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 67
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf54207a7f43ec10800000000000000
+      internalID: 2081594840061337514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 19
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4153daf281ff31d10800000000000000
+      internalID: 2095298731001591060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 67
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7778956626fa077e0800000000000000
+      internalID: -1769721816397805705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_31
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 17
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae4d807ebac4e780800000000000000
+      internalID: -8654569664618344798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_32
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 66
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d03b2af3e361b80800000000000000
+      internalID: -8424477609916428962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_33
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 18
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaf48449c10d5b40800000000000000
+      internalID: 5430498689628306171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_34
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 67
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412bc9fdb4a8ea320800000000000000
+      internalID: 2571144495753900564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_35
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 18
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4049c5c378e42a20800000000000000
+      internalID: 3036807632691740748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_36
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 66
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431dccee9ac9bba60800000000000000
+      internalID: 7690913042335060276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_37
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 18
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5259c29d68d3e2050800000000000000
+      internalID: 5777623021341414693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_38
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 66
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931f02897cbd66130800000000000000
+      internalID: 3559774205780226361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_39
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 18
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e547d7fc83bb84b60800000000000000
+      internalID: 7730634613055124574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_40
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 66
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fb9029daca1c410800000000000000
+      internalID: 1495666412743147374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_41
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 18
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c06d8eb5357566e0800000000000000
+      internalID: -1844939598647697216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Lose Screen _ Crown_42
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 65
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8662586592db6ae40800000000000000
+      internalID: 5667425166335223400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Win Lose Screen _ Crown_0: -8685295676140258193
+      Win Lose Screen _ Crown_1: -1777703690955133263
+      Win Lose Screen _ Crown_10: 1635327712212947650
+      Win Lose Screen _ Crown_11: -6227636191410664349
+      Win Lose Screen _ Crown_12: -2635042840370987020
+      Win Lose Screen _ Crown_13: -462659069018366077
+      Win Lose Screen _ Crown_14: 542588756264484718
+      Win Lose Screen _ Crown_15: -6342935762113249702
+      Win Lose Screen _ Crown_16: -2068719504678825630
+      Win Lose Screen _ Crown_17: 7214780441239984812
+      Win Lose Screen _ Crown_18: 3687151347123767951
+      Win Lose Screen _ Crown_19: 8025762151363422251
+      Win Lose Screen _ Crown_2: -6713824343377603782
+      Win Lose Screen _ Crown_20: 4426452159448581366
+      Win Lose Screen _ Crown_21: -3203177751758793043
+      Win Lose Screen _ Crown_22: -252903264047119447
+      Win Lose Screen _ Crown_23: -6207961705827665408
+      Win Lose Screen _ Crown_24: 4027617083742931153
+      Win Lose Screen _ Crown_25: -1605532482167088977
+      Win Lose Screen _ Crown_26: -2056520741265287293
+      Win Lose Screen _ Crown_27: -4335882256363497322
+      Win Lose Screen _ Crown_28: 2081594840061337514
+      Win Lose Screen _ Crown_29: 2095298731001591060
+      Win Lose Screen _ Crown_3: -5890787733586529361
+      Win Lose Screen _ Crown_30: -1769721816397805705
+      Win Lose Screen _ Crown_31: -8654569664618344798
+      Win Lose Screen _ Crown_32: -8424477609916428962
+      Win Lose Screen _ Crown_33: 5430498689628306171
+      Win Lose Screen _ Crown_34: 2571144495753900564
+      Win Lose Screen _ Crown_35: 3036807632691740748
+      Win Lose Screen _ Crown_36: 7690913042335060276
+      Win Lose Screen _ Crown_37: 5777623021341414693
+      Win Lose Screen _ Crown_38: 3559774205780226361
+      Win Lose Screen _ Crown_39: 7730634613055124574
+      Win Lose Screen _ Crown_4: -1635653451356238310
+      Win Lose Screen _ Crown_40: 1495666412743147374
+      Win Lose Screen _ Crown_41: -1844939598647697216
+      Win Lose Screen _ Crown_42: 5667425166335223400
+      Win Lose Screen _ Crown_5: -6870875332792279637
+      Win Lose Screen _ Crown_6: -6607609591343748238
+      Win Lose Screen _ Crown_7: 1423777927251062612
+      Win Lose Screen _ Crown_8: 2649581838313775492
+      Win Lose Screen _ Crown_9: -7054764605317826220
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

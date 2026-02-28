@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: 62a435298a3537c45baae0e6a093b0f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4586800276678963738
+    second: Forgotten guardian - Intro_0
+  - first:
+      213: 7655417394126101438
+    second: Forgotten guardian - Intro_1
+  - first:
+      213: 660401261748556222
+    second: Forgotten guardian - Intro_2
+  - first:
+      213: -8925775713323566768
+    second: Forgotten guardian - Intro_3
+  - first:
+      213: -7528369642618519899
+    second: Forgotten guardian - Intro_4
+  - first:
+      213: -3939670916562603902
+    second: Forgotten guardian - Intro_5
+  - first:
+      213: 8907982095501064592
+    second: Forgotten guardian - Intro_6
+  - first:
+      213: -6219378754649223541
+    second: Forgotten guardian - Intro_7
+  - first:
+      213: -8342206641123910266
+    second: Forgotten guardian - Intro_8
+  - first:
+      213: 3558190037369543290
+    second: Forgotten guardian - Intro_9
+  - first:
+      213: 8195919884485883619
+    second: Forgotten guardian - Intro_10
+  - first:
+      213: -3833469677677688902
+    second: Forgotten guardian - Intro_11
+  - first:
+      213: -180952917417195415
+    second: Forgotten guardian - Intro_12
+  - first:
+      213: -2631960426186484540
+    second: Forgotten guardian - Intro_13
+  - first:
+      213: 6827563279280203328
+    second: Forgotten guardian - Intro_14
+  - first:
+      213: -7416331490099122191
+    second: Forgotten guardian - Intro_15
+  - first:
+      213: -8948299937340651553
+    second: Forgotten guardian - Intro_16
+  - first:
+      213: -1637748206521148098
+    second: Forgotten guardian - Intro_17
+  - first:
+      213: -5003310255722188483
+    second: Forgotten guardian - Intro_18
+  - first:
+      213: 9007115863754633317
+    second: Forgotten guardian - Intro_19
+  - first:
+      213: 3345226315595487458
+    second: Forgotten guardian - Intro_20
+  - first:
+      213: 5890726828186638458
+    second: Forgotten guardian - Intro_21
+  - first:
+      213: -6291519233670448757
+    second: Forgotten guardian - Intro_22
+  - first:
+      213: -4086968151399412422
+    second: Forgotten guardian - Intro_23
+  - first:
+      213: 2670719786370865938
+    second: Forgotten guardian - Intro_24
+  - first:
+      213: -6350323536297631919
+    second: Forgotten guardian - Intro_25
+  - first:
+      213: 3316031783170812211
+    second: Forgotten guardian - Intro_26
+  - first:
+      213: -1963370880025037787
+    second: Forgotten guardian - Intro_27
+  - first:
+      213: 6359917100815367667
+    second: Forgotten guardian - Intro_28
+  - first:
+      213: 5125906881622109249
+    second: Forgotten guardian - Intro_29
+  - first:
+      213: -8365992915606624406
+    second: Forgotten guardian - Intro_30
+  - first:
+      213: 7172206677409673035
+    second: Forgotten guardian - Intro_31
+  - first:
+      213: 3529421084983643414
+    second: Forgotten guardian - Intro_32
+  - first:
+      213: -7182232658572893294
+    second: Forgotten guardian - Intro_33
+  - first:
+      213: -8525326263999864770
+    second: Forgotten guardian - Intro_34
+  - first:
+      213: -6264481293239456723
+    second: Forgotten guardian - Intro_35
+  - first:
+      213: 1100937857908872918
+    second: Forgotten guardian - Intro_36
+  - first:
+      213: 6054007699184446463
+    second: Forgotten guardian - Intro_37
+  - first:
+      213: 4854592168378017439
+    second: Forgotten guardian - Intro_38
+  - first:
+      213: -2650482537907005650
+    second: Forgotten guardian - Intro_39
+  - first:
+      213: 3385404038910770705
+    second: Forgotten guardian - Intro_40
+  - first:
+      213: -1479715307135181777
+    second: Forgotten guardian - Intro_41
+  - first:
+      213: 2012710085609536300
+    second: Forgotten guardian - Intro_42
+  - first:
+      213: 5967907600543924329
+    second: Forgotten guardian - Intro_43
+  - first:
+      213: 6888820410838028006
+    second: Forgotten guardian - Intro_44
+  - first:
+      213: -3856694037173868472
+    second: Forgotten guardian - Intro_45
+  - first:
+      213: -4251061276184925887
+    second: Forgotten guardian - Intro_46
+  - first:
+      213: 6988901524867344387
+    second: Forgotten guardian - Intro_47
+  - first:
+      213: 1384191031872571845
+    second: Forgotten guardian - Intro_48
+  - first:
+      213: -7982405731149985715
+    second: Forgotten guardian - Intro_49
+  - first:
+      213: 7539503181643148742
+    second: Forgotten guardian - Intro_50
+  - first:
+      213: 383367945014546608
+    second: Forgotten guardian - Intro_51
+  - first:
+      213: 8790870589715249974
+    second: Forgotten guardian - Intro_52
+  - first:
+      213: 6601957903891607838
+    second: Forgotten guardian - Intro_53
+  - first:
+      213: -6241300855722842361
+    second: Forgotten guardian - Intro_54
+  - first:
+      213: -52402282427803505
+    second: Forgotten guardian - Intro_55
+  - first:
+      213: -1809712934052569847
+    second: Forgotten guardian - Intro_56
+  - first:
+      213: 5160401585547511446
+    second: Forgotten guardian - Intro_57
+  - first:
+      213: -6030056448787203472
+    second: Forgotten guardian - Intro_58
+  - first:
+      213: 7988809113231695456
+    second: Forgotten guardian - Intro_59
+  - first:
+      213: 7785090181487530920
+    second: Forgotten guardian - Intro_60
+  - first:
+      213: -5831559505663244756
+    second: Forgotten guardian - Intro_61
+  - first:
+      213: -8784535330377794472
+    second: Forgotten guardian - Intro_62
+  - first:
+      213: -2003029559850892036
+    second: Forgotten guardian - Intro_63
+  - first:
+      213: 2815404484257837619
+    second: Forgotten guardian - Intro_64
+  - first:
+      213: 5072381732191820545
+    second: Forgotten guardian - Intro_65
+  - first:
+      213: -833752462455331308
+    second: Forgotten guardian - Intro_66
+  - first:
+      213: -1072585153728861439
+    second: Forgotten guardian - Intro_67
+  - first:
+      213: 7899393047817501048
+    second: Forgotten guardian - Intro_68
+  - first:
+      213: -4419074230527269933
+    second: Forgotten guardian - Intro_69
+  - first:
+      213: -5814307569941144833
+    second: Forgotten guardian - Intro_70
+  - first:
+      213: 5447924542305456953
+    second: Forgotten guardian - Intro_71
+  - first:
+      213: 8947593511568775714
+    second: Forgotten guardian - Intro_72
+  - first:
+      213: -3248044903942023467
+    second: Forgotten guardian - Intro_73
+  - first:
+      213: -2453833132957197945
+    second: Forgotten guardian - Intro_74
+  - first:
+      213: 745064422969975051
+    second: Forgotten guardian - Intro_75
+  - first:
+      213: -8254861581092990307
+    second: Forgotten guardian - Intro_76
+  - first:
+      213: 8956477404461837570
+    second: Forgotten guardian - Intro_77
+  - first:
+      213: 5524087416273663927
+    second: Forgotten guardian - Intro_78
+  - first:
+      213: 5698526771084283741
+    second: Forgotten guardian - Intro_79
+  - first:
+      213: -8427189238642867675
+    second: Forgotten guardian - Intro_80
+  - first:
+      213: 2918833155963806680
+    second: Forgotten guardian - Intro_81
+  - first:
+      213: 4072603496364083376
+    second: Forgotten guardian - Intro_82
+  - first:
+      213: -6615857621207374676
+    second: Forgotten guardian - Intro_83
+  - first:
+      213: 922861254855041735
+    second: Forgotten guardian - Intro_84
+  - first:
+      213: 1557579464028620927
+    second: Forgotten guardian - Intro_85
+  - first:
+      213: 4493432220463278436
+    second: Forgotten guardian - Intro_86
+  - first:
+      213: -9021686192220003111
+    second: Forgotten guardian - Intro_87
+  - first:
+      213: -2090504309888273467
+    second: Forgotten guardian - Intro_88
+  - first:
+      213: -5344561476276255995
+    second: Forgotten guardian - Intro_89
+  - first:
+      213: 5198793589972751188
+    second: Forgotten guardian - Intro_90
+  - first:
+      213: -2267466433786233914
+    second: Forgotten guardian - Intro_91
+  - first:
+      213: 3776428096507470978
+    second: Forgotten guardian - Intro_92
+  - first:
+      213: -179767295299746360
+    second: Forgotten guardian - Intro_93
+  - first:
+      213: 7589491126472362932
+    second: Forgotten guardian - Intro_94
+  - first:
+      213: -7423149005791636945
+    second: Forgotten guardian - Intro_95
+  - first:
+      213: -6691482711655057239
+    second: Forgotten guardian - Intro_96
+  - first:
+      213: -5324588122641221918
+    second: Forgotten guardian - Intro_97
+  - first:
+      213: -3115669466093935023
+    second: Forgotten guardian - Intro_98
+  - first:
+      213: -1672502190367265001
+    second: Forgotten guardian - Intro_99
+  - first:
+      213: 7966433722792504174
+    second: Forgotten guardian - Intro_100
+  - first:
+      213: 2481480659500465442
+    second: Forgotten guardian - Intro_101
+  - first:
+      213: 2426174617116148668
+    second: Forgotten guardian - Intro_102
+  - first:
+      213: -1650418396261110609
+    second: Forgotten guardian - Intro_103
+  - first:
+      213: -4600882254591630050
+    second: Forgotten guardian - Intro_104
+  - first:
+      213: 955232483762459579
+    second: Forgotten guardian - Intro_105
+  - first:
+      213: 6964065936864083311
+    second: Forgotten guardian - Intro_106
+  - first:
+      213: 945392087720159047
+    second: Forgotten guardian - Intro_107
+  - first:
+      213: 8334290045839919715
+    second: Forgotten guardian - Intro_108
+  - first:
+      213: -4622246325084726354
+    second: Forgotten guardian - Intro_109
+  - first:
+      213: 5047849164121660271
+    second: Forgotten guardian - Intro_110
+  - first:
+      213: -6548346810252199869
+    second: Forgotten guardian - Intro_111
+  - first:
+      213: 789141417307011002
+    second: Forgotten guardian - Intro_112
+  - first:
+      213: -5122643799287039441
+    second: Forgotten guardian - Intro_113
+  - first:
+      213: -8720419207380204733
+    second: Forgotten guardian - Intro_114
+  - first:
+      213: 6266955553796341960
+    second: Forgotten guardian - Intro_115
+  - first:
+      213: -8355081815478234211
+    second: Forgotten guardian - Intro_116
+  - first:
+      213: 3527521959555689761
+    second: Forgotten guardian - Intro_117
+  - first:
+      213: 4989179658018106286
+    second: Forgotten guardian - Intro_118
+  - first:
+      213: 5557942055427635218
+    second: Forgotten guardian - Intro_119
+  - first:
+      213: 1142778081077574101
+    second: Forgotten guardian - Intro_120
+  - first:
+      213: 370240410486588211
+    second: Forgotten guardian - Intro_121
+  - first:
+      213: 7243459507883647979
+    second: Forgotten guardian - Intro_122
+  - first:
+      213: 5152283792865216997
+    second: Forgotten guardian - Intro_123
+  - first:
+      213: -358443231989701715
+    second: Forgotten guardian - Intro_124
+  - first:
+      213: -5064236648105620922
+    second: Forgotten guardian - Intro_125
+  - first:
+      213: 4174919083189922016
+    second: Forgotten guardian - Intro_126
+  - first:
+      213: 7290165276000496021
+    second: Forgotten guardian - Intro_127
+  - first:
+      213: -7908909938669118175
+    second: Forgotten guardian - Intro_128
+  - first:
+      213: -4723612409541681386
+    second: Forgotten guardian - Intro_129
+  - first:
+      213: -8732379322140224068
+    second: Forgotten guardian - Intro_130
+  - first:
+      213: 6821480888764659294
+    second: Forgotten guardian - Intro_131
+  - first:
+      213: 1640378153099326605
+    second: Forgotten guardian - Intro_132
+  - first:
+      213: 1891537315770403830
+    second: Forgotten guardian - Intro_133
+  - first:
+      213: -6897862490203190456
+    second: Forgotten guardian - Intro_134
+  - first:
+      213: -2618454018433867018
+    second: Forgotten guardian - Intro_135
+  - first:
+      213: -5579055933945346331
+    second: Forgotten guardian - Intro_136
+  - first:
+      213: 439408254670488358
+    second: Forgotten guardian - Intro_137
+  - first:
+      213: 6671710366964455272
+    second: Forgotten guardian - Intro_138
+  - first:
+      213: 2942322893354071723
+    second: Forgotten guardian - Intro_139
+  - first:
+      213: -2035889110826299452
+    second: Forgotten guardian - Intro_140
+  - first:
+      213: 462317503903823658
+    second: Forgotten guardian - Intro_141
+  - first:
+      213: 7591602625971389535
+    second: Forgotten guardian - Intro_142
+  - first:
+      213: -7886127241016294296
+    second: Forgotten guardian - Intro_143
+  - first:
+      213: 7183170681102077374
+    second: Forgotten guardian - Intro_144
+  - first:
+      213: -8597138024050569462
+    second: Forgotten guardian - Intro_145
+  - first:
+      213: -621140558278556543
+    second: Forgotten guardian - Intro_146
+  - first:
+      213: -2339838905114370716
+    second: Forgotten guardian - Intro_147
+  - first:
+      213: -6809268636379789941
+    second: Forgotten guardian - Intro_148
+  - first:
+      213: -5238320568904631369
+    second: Forgotten guardian - Intro_149
+  - first:
+      213: -6169496967165063035
+    second: Forgotten guardian - Intro_150
+  - first:
+      213: -9080382243666906519
+    second: Forgotten guardian - Intro_151
+  - first:
+      213: 1886040282192855399
+    second: Forgotten guardian - Intro_152
+  - first:
+      213: -7018276010341351863
+    second: Forgotten guardian - Intro_153
+  - first:
+      213: 5262731162289628239
+    second: Forgotten guardian - Intro_154
+  - first:
+      213: 6563061618547383268
+    second: Forgotten guardian - Intro_155
+  - first:
+      213: -9081660855019706357
+    second: Forgotten guardian - Intro_156
+  - first:
+      213: -8377007924208170581
+    second: Forgotten guardian - Intro_157
+  - first:
+      213: -6709618287554781556
+    second: Forgotten guardian - Intro_158
+  - first:
+      213: -514919227993473700
+    second: Forgotten guardian - Intro_159
+  - first:
+      213: 2594745975051067781
+    second: Forgotten guardian - Intro_160
+  - first:
+      213: -405762639067540872
+    second: Forgotten guardian - Intro_161
+  - first:
+      213: -4161021538063610988
+    second: Forgotten guardian - Intro_162
+  - first:
+      213: 5266121323713264286
+    second: Forgotten guardian - Intro_163
+  - first:
+      213: -9205975269343188995
+    second: Forgotten guardian - Intro_164
+  - first:
+      213: 6574329459977202630
+    second: Forgotten guardian - Intro_165
+  - first:
+      213: -958444962378170841
+    second: Forgotten guardian - Intro_166
+  - first:
+      213: -4969843733655599165
+    second: Forgotten guardian - Intro_167
+  - first:
+      213: 533474791389991922
+    second: Forgotten guardian - Intro_168
+  - first:
+      213: -4007537253928902293
+    second: Forgotten guardian - Intro_169
+  - first:
+      213: -6750286551533269680
+    second: Forgotten guardian - Intro_170
+  - first:
+      213: -8333167649824711495
+    second: Forgotten guardian - Intro_171
+  - first:
+      213: 8437396969721339007
+    second: Forgotten guardian - Intro_172
+  - first:
+      213: 5124777564591806196
+    second: Forgotten guardian - Intro_173
+  - first:
+      213: -3855316501868170525
+    second: Forgotten guardian - Intro_174
+  - first:
+      213: -4308353916913135474
+    second: Forgotten guardian - Intro_175
+  - first:
+      213: 3705361004022812273
+    second: Forgotten guardian - Intro_176
+  - first:
+      213: 531808642882784328
+    second: Forgotten guardian - Intro_177
+  - first:
+      213: -1157779296947473020
+    second: Forgotten guardian - Intro_178
+  - first:
+      213: 2967041263069489690
+    second: Forgotten guardian - Intro_179
+  - first:
+      213: -1051231815818775793
+    second: Forgotten guardian - Intro_180
+  - first:
+      213: -6163813281499907118
+    second: Forgotten guardian - Intro_181
+  - first:
+      213: 7930619121976653474
+    second: Forgotten guardian - Intro_182
+  - first:
+      213: 7582789308263244590
+    second: Forgotten guardian - Intro_183
+  - first:
+      213: 5520605688616222467
+    second: Forgotten guardian - Intro_184
+  - first:
+      213: -692611487659594281
+    second: Forgotten guardian - Intro_185
+  - first:
+      213: 2372508900772726432
+    second: Forgotten guardian - Intro_186
+  - first:
+      213: 2073780581067216175
+    second: Forgotten guardian - Intro_187
+  - first:
+      213: -2443928289328789973
+    second: Forgotten guardian - Intro_188
+  - first:
+      213: 68718338504243295
+    second: Forgotten guardian - Intro_189
+  - first:
+      213: -8789103256601797607
+    second: Forgotten guardian - Intro_190
+  - first:
+      213: 1863502766545560948
+    second: Forgotten guardian - Intro_191
+  - first:
+      213: 2517361650357866907
+    second: Forgotten guardian - Intro_192
+  - first:
+      213: -1229003492655206370
+    second: Forgotten guardian - Intro_193
+  - first:
+      213: 6015158723159098974
+    second: Forgotten guardian - Intro_194
+  - first:
+      213: -5288716386925098926
+    second: Forgotten guardian - Intro_195
+  - first:
+      213: -8413124631389051577
+    second: Forgotten guardian - Intro_196
+  - first:
+      213: 976101411762289740
+    second: Forgotten guardian - Intro_197
+  - first:
+      213: 5110246611609250680
+    second: Forgotten guardian - Intro_198
+  - first:
+      213: -4246620910468218951
+    second: Forgotten guardian - Intro_199
+  - first:
+      213: 3342750242124570950
+    second: Forgotten guardian - Intro_200
+  - first:
+      213: 5082826616082333589
+    second: Forgotten guardian - Intro_201
+  - first:
+      213: -5627331543445010019
+    second: Forgotten guardian - Intro_202
+  - first:
+      213: 1646595288414607154
+    second: Forgotten guardian - Intro_203
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 617
+        width: 101
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae73e172bbd58790800000000000000
+      internalID: -7528369642618519899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 616
+        width: 103
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09971e3f4828f9b70800000000000000
+      internalID: 8907982095501064592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_8
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 616
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d97e042478a3c80800000000000000
+      internalID: -8342206641123910266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 616
+        width: 103
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6775a06b1cdb170800000000000000
+      internalID: 8195919884485883619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_13
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 615
+        width: 104
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4d446efe5697bd0800000000000000
+      internalID: -2631960426186484540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_16
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 615
+        width: 101
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7092bfd9041d380800000000000000
+      internalID: -8948299937340651553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_19
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 615
+        width: 99
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56071e50824bffc70800000000000000
+      internalID: 9007115863754633317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_22
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 612
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89f883479800b8a0800000000000000
+      internalID: -6291519233670448757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_43
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 460
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96046c6e75442d250800000000000000
+      internalID: 5967907600543924329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_44
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 462
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee06754aa10a9f50800000000000000
+      internalID: 6888820410838028006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_46
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 462
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149249ada423105c0800000000000000
+      internalID: -4251061276184925887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 462
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30867e778e09df060800000000000000
+      internalID: 6988901524867344387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_49
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 462
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4843c5b74cc83190800000000000000
+      internalID: -7982405731149985715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_50
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 462
+        width: 110
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd64cc9232b1a860800000000000000
+      internalID: 7539503181643148742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_52
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 462
+        width: 119
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bf76ea9327ff970800000000000000
+      internalID: 8790870589715249974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_53
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 461
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11ba832cbdde9b50800000000000000
+      internalID: 6601957903891607838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_105
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 305
+        width: 101
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3539802eaa14d00800000000000000
+      internalID: 955232483762459579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_108
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 304
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36acc55c3a859a370800000000000000
+      internalID: 8334290045839919715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_111
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 307
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348fadc45499f15a0800000000000000
+      internalID: -6548346810252199869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_113
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 307
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a73a00b96b8e8b0800000000000000
+      internalID: -5122643799287039441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_115
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 306
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c041375fd2b8f650800000000000000
+      internalID: 6266955553796341960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_117
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 304
+        width: 103
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12de4b8588644f030800000000000000
+      internalID: 3527521959555689761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_119
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 305
+        width: 107
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218f7f72ad6c12d40800000000000000
+      internalID: 5557942055427635218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_121
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 306
+        width: 106
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3334c8411bb532500800000000000000
+      internalID: 370240410486588211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_139
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 153
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba67ed8151b35d820800000000000000
+      internalID: 2942322893354071723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_140
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 155
+        width: 117
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfcc1be3a11fb3e0800000000000000
+      internalID: -2035889110826299452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_145
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 159
+        width: 121
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f46774484d0b880800000000000000
+      internalID: -8597138024050569462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_146
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 169
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184083404f34167f0800000000000000
+      internalID: -621140558278556543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_147
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 172
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dd40da9e8378fd0800000000000000
+      internalID: -2339838905114370716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_148
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 171
+        width: 114
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85cf54904e9081a0800000000000000
+      internalID: -6809268636379789941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_149
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 172
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb31d6423fbd47b0800000000000000
+      internalID: -5238320568904631369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_152
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 158
+        width: 135
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761ce2cd4af8c2a10800000000000000
+      internalID: 1886040282192855399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_187
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 20
+        width: 115
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f255d9c737c87cc10800000000000000
+      internalID: 2073780581067216175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_191
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 20
+        width: 116
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475e7e594ed7cd910800000000000000
+      internalID: 1863502766545560948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten guardian - Intro_195
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 19
+        width: 115
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258ca878774ba96b0800000000000000
+      internalID: -5288716386925098926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 90eb29598fc45c74caaac110b0a2bc37
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Forgotten guardian - Intro_0: 4586800276678963738
+      Forgotten guardian - Intro_1: 7655417394126101438
+      Forgotten guardian - Intro_10: 8195919884485883619
+      Forgotten guardian - Intro_100: 7966433722792504174
+      Forgotten guardian - Intro_101: 2481480659500465442
+      Forgotten guardian - Intro_102: 2426174617116148668
+      Forgotten guardian - Intro_103: -1650418396261110609
+      Forgotten guardian - Intro_104: -4600882254591630050
+      Forgotten guardian - Intro_105: 955232483762459579
+      Forgotten guardian - Intro_106: 6964065936864083311
+      Forgotten guardian - Intro_107: 945392087720159047
+      Forgotten guardian - Intro_108: 8334290045839919715
+      Forgotten guardian - Intro_109: -4622246325084726354
+      Forgotten guardian - Intro_11: -3833469677677688902
+      Forgotten guardian - Intro_110: 5047849164121660271
+      Forgotten guardian - Intro_111: -6548346810252199869
+      Forgotten guardian - Intro_112: 789141417307011002
+      Forgotten guardian - Intro_113: -5122643799287039441
+      Forgotten guardian - Intro_114: -8720419207380204733
+      Forgotten guardian - Intro_115: 6266955553796341960
+      Forgotten guardian - Intro_116: -8355081815478234211
+      Forgotten guardian - Intro_117: 3527521959555689761
+      Forgotten guardian - Intro_118: 4989179658018106286
+      Forgotten guardian - Intro_119: 5557942055427635218
+      Forgotten guardian - Intro_12: -180952917417195415
+      Forgotten guardian - Intro_120: 1142778081077574101
+      Forgotten guardian - Intro_121: 370240410486588211
+      Forgotten guardian - Intro_122: 7243459507883647979
+      Forgotten guardian - Intro_123: 5152283792865216997
+      Forgotten guardian - Intro_124: -358443231989701715
+      Forgotten guardian - Intro_125: -5064236648105620922
+      Forgotten guardian - Intro_126: 4174919083189922016
+      Forgotten guardian - Intro_127: 7290165276000496021
+      Forgotten guardian - Intro_128: -7908909938669118175
+      Forgotten guardian - Intro_129: -4723612409541681386
+      Forgotten guardian - Intro_13: -2631960426186484540
+      Forgotten guardian - Intro_130: -8732379322140224068
+      Forgotten guardian - Intro_131: 6821480888764659294
+      Forgotten guardian - Intro_132: 1640378153099326605
+      Forgotten guardian - Intro_133: 1891537315770403830
+      Forgotten guardian - Intro_134: -6897862490203190456
+      Forgotten guardian - Intro_135: -2618454018433867018
+      Forgotten guardian - Intro_136: -5579055933945346331
+      Forgotten guardian - Intro_137: 439408254670488358
+      Forgotten guardian - Intro_138: 6671710366964455272
+      Forgotten guardian - Intro_139: 2942322893354071723
+      Forgotten guardian - Intro_14: 6827563279280203328
+      Forgotten guardian - Intro_140: -2035889110826299452
+      Forgotten guardian - Intro_141: 462317503903823658
+      Forgotten guardian - Intro_142: 7591602625971389535
+      Forgotten guardian - Intro_143: -7886127241016294296
+      Forgotten guardian - Intro_144: 7183170681102077374
+      Forgotten guardian - Intro_145: -8597138024050569462
+      Forgotten guardian - Intro_146: -621140558278556543
+      Forgotten guardian - Intro_147: -2339838905114370716
+      Forgotten guardian - Intro_148: -6809268636379789941
+      Forgotten guardian - Intro_149: -5238320568904631369
+      Forgotten guardian - Intro_15: -7416331490099122191
+      Forgotten guardian - Intro_150: -6169496967165063035
+      Forgotten guardian - Intro_151: -9080382243666906519
+      Forgotten guardian - Intro_152: 1886040282192855399
+      Forgotten guardian - Intro_153: -7018276010341351863
+      Forgotten guardian - Intro_154: 5262731162289628239
+      Forgotten guardian - Intro_155: 6563061618547383268
+      Forgotten guardian - Intro_156: -9081660855019706357
+      Forgotten guardian - Intro_157: -8377007924208170581
+      Forgotten guardian - Intro_158: -6709618287554781556
+      Forgotten guardian - Intro_159: -514919227993473700
+      Forgotten guardian - Intro_16: -8948299937340651553
+      Forgotten guardian - Intro_160: 2594745975051067781
+      Forgotten guardian - Intro_161: -405762639067540872
+      Forgotten guardian - Intro_162: -4161021538063610988
+      Forgotten guardian - Intro_163: 5266121323713264286
+      Forgotten guardian - Intro_164: -9205975269343188995
+      Forgotten guardian - Intro_165: 6574329459977202630
+      Forgotten guardian - Intro_166: -958444962378170841
+      Forgotten guardian - Intro_167: -4969843733655599165
+      Forgotten guardian - Intro_168: 533474791389991922
+      Forgotten guardian - Intro_169: -4007537253928902293
+      Forgotten guardian - Intro_17: -1637748206521148098
+      Forgotten guardian - Intro_170: -6750286551533269680
+      Forgotten guardian - Intro_171: -8333167649824711495
+      Forgotten guardian - Intro_172: 8437396969721339007
+      Forgotten guardian - Intro_173: 5124777564591806196
+      Forgotten guardian - Intro_174: -3855316501868170525
+      Forgotten guardian - Intro_175: -4308353916913135474
+      Forgotten guardian - Intro_176: 3705361004022812273
+      Forgotten guardian - Intro_177: 531808642882784328
+      Forgotten guardian - Intro_178: -1157779296947473020
+      Forgotten guardian - Intro_179: 2967041263069489690
+      Forgotten guardian - Intro_18: -5003310255722188483
+      Forgotten guardian - Intro_180: -1051231815818775793
+      Forgotten guardian - Intro_181: -6163813281499907118
+      Forgotten guardian - Intro_182: 7930619121976653474
+      Forgotten guardian - Intro_183: 7582789308263244590
+      Forgotten guardian - Intro_184: 5520605688616222467
+      Forgotten guardian - Intro_185: -692611487659594281
+      Forgotten guardian - Intro_186: 2372508900772726432
+      Forgotten guardian - Intro_187: 2073780581067216175
+      Forgotten guardian - Intro_188: -2443928289328789973
+      Forgotten guardian - Intro_189: 68718338504243295
+      Forgotten guardian - Intro_19: 9007115863754633317
+      Forgotten guardian - Intro_190: -8789103256601797607
+      Forgotten guardian - Intro_191: 1863502766545560948
+      Forgotten guardian - Intro_192: 2517361650357866907
+      Forgotten guardian - Intro_193: -1229003492655206370
+      Forgotten guardian - Intro_194: 6015158723159098974
+      Forgotten guardian - Intro_195: -5288716386925098926
+      Forgotten guardian - Intro_196: -8413124631389051577
+      Forgotten guardian - Intro_197: 976101411762289740
+      Forgotten guardian - Intro_198: 5110246611609250680
+      Forgotten guardian - Intro_199: -4246620910468218951
+      Forgotten guardian - Intro_2: 660401261748556222
+      Forgotten guardian - Intro_20: 3345226315595487458
+      Forgotten guardian - Intro_200: 3342750242124570950
+      Forgotten guardian - Intro_201: 5082826616082333589
+      Forgotten guardian - Intro_202: -5627331543445010019
+      Forgotten guardian - Intro_203: 1646595288414607154
+      Forgotten guardian - Intro_21: 5890726828186638458
+      Forgotten guardian - Intro_22: -6291519233670448757
+      Forgotten guardian - Intro_23: -4086968151399412422
+      Forgotten guardian - Intro_24: 2670719786370865938
+      Forgotten guardian - Intro_25: -6350323536297631919
+      Forgotten guardian - Intro_26: 3316031783170812211
+      Forgotten guardian - Intro_27: -1963370880025037787
+      Forgotten guardian - Intro_28: 6359917100815367667
+      Forgotten guardian - Intro_29: 5125906881622109249
+      Forgotten guardian - Intro_3: -8925775713323566768
+      Forgotten guardian - Intro_30: -8365992915606624406
+      Forgotten guardian - Intro_31: 7172206677409673035
+      Forgotten guardian - Intro_32: 3529421084983643414
+      Forgotten guardian - Intro_33: -7182232658572893294
+      Forgotten guardian - Intro_34: -8525326263999864770
+      Forgotten guardian - Intro_35: -6264481293239456723
+      Forgotten guardian - Intro_36: 1100937857908872918
+      Forgotten guardian - Intro_37: 6054007699184446463
+      Forgotten guardian - Intro_38: 4854592168378017439
+      Forgotten guardian - Intro_39: -2650482537907005650
+      Forgotten guardian - Intro_4: -7528369642618519899
+      Forgotten guardian - Intro_40: 3385404038910770705
+      Forgotten guardian - Intro_41: -1479715307135181777
+      Forgotten guardian - Intro_42: 2012710085609536300
+      Forgotten guardian - Intro_43: 5967907600543924329
+      Forgotten guardian - Intro_44: 6888820410838028006
+      Forgotten guardian - Intro_45: -3856694037173868472
+      Forgotten guardian - Intro_46: -4251061276184925887
+      Forgotten guardian - Intro_47: 6988901524867344387
+      Forgotten guardian - Intro_48: 1384191031872571845
+      Forgotten guardian - Intro_49: -7982405731149985715
+      Forgotten guardian - Intro_5: -3939670916562603902
+      Forgotten guardian - Intro_50: 7539503181643148742
+      Forgotten guardian - Intro_51: 383367945014546608
+      Forgotten guardian - Intro_52: 8790870589715249974
+      Forgotten guardian - Intro_53: 6601957903891607838
+      Forgotten guardian - Intro_54: -6241300855722842361
+      Forgotten guardian - Intro_55: -52402282427803505
+      Forgotten guardian - Intro_56: -1809712934052569847
+      Forgotten guardian - Intro_57: 5160401585547511446
+      Forgotten guardian - Intro_58: -6030056448787203472
+      Forgotten guardian - Intro_59: 7988809113231695456
+      Forgotten guardian - Intro_6: 8907982095501064592
+      Forgotten guardian - Intro_60: 7785090181487530920
+      Forgotten guardian - Intro_61: -5831559505663244756
+      Forgotten guardian - Intro_62: -8784535330377794472
+      Forgotten guardian - Intro_63: -2003029559850892036
+      Forgotten guardian - Intro_64: 2815404484257837619
+      Forgotten guardian - Intro_65: 5072381732191820545
+      Forgotten guardian - Intro_66: -833752462455331308
+      Forgotten guardian - Intro_67: -1072585153728861439
+      Forgotten guardian - Intro_68: 7899393047817501048
+      Forgotten guardian - Intro_69: -4419074230527269933
+      Forgotten guardian - Intro_7: -6219378754649223541
+      Forgotten guardian - Intro_70: -5814307569941144833
+      Forgotten guardian - Intro_71: 5447924542305456953
+      Forgotten guardian - Intro_72: 8947593511568775714
+      Forgotten guardian - Intro_73: -3248044903942023467
+      Forgotten guardian - Intro_74: -2453833132957197945
+      Forgotten guardian - Intro_75: 745064422969975051
+      Forgotten guardian - Intro_76: -8254861581092990307
+      Forgotten guardian - Intro_77: 8956477404461837570
+      Forgotten guardian - Intro_78: 5524087416273663927
+      Forgotten guardian - Intro_79: 5698526771084283741
+      Forgotten guardian - Intro_8: -8342206641123910266
+      Forgotten guardian - Intro_80: -8427189238642867675
+      Forgotten guardian - Intro_81: 2918833155963806680
+      Forgotten guardian - Intro_82: 4072603496364083376
+      Forgotten guardian - Intro_83: -6615857621207374676
+      Forgotten guardian - Intro_84: 922861254855041735
+      Forgotten guardian - Intro_85: 1557579464028620927
+      Forgotten guardian - Intro_86: 4493432220463278436
+      Forgotten guardian - Intro_87: -9021686192220003111
+      Forgotten guardian - Intro_88: -2090504309888273467
+      Forgotten guardian - Intro_89: -5344561476276255995
+      Forgotten guardian - Intro_9: 3558190037369543290
+      Forgotten guardian - Intro_90: 5198793589972751188
+      Forgotten guardian - Intro_91: -2267466433786233914
+      Forgotten guardian - Intro_92: 3776428096507470978
+      Forgotten guardian - Intro_93: -179767295299746360
+      Forgotten guardian - Intro_94: 7589491126472362932
+      Forgotten guardian - Intro_95: -7423149005791636945
+      Forgotten guardian - Intro_96: -6691482711655057239
+      Forgotten guardian - Intro_97: -5324588122641221918
+      Forgotten guardian - Intro_98: -3115669466093935023
+      Forgotten guardian - Intro_99: -1672502190367265001
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
