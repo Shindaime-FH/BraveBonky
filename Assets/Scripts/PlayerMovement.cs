@@ -19,6 +19,8 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Animator animator;
     [SerializeField] private SpriteRenderer spriteRenderer;
 
+    AudioManager audioManager;
+
     private float moveInput;
     private bool isGrounded;
     private bool wasGrounded;
@@ -33,6 +35,7 @@ public class PlayerMovement : MonoBehaviour
         if (rb == null) rb = GetComponent<Rigidbody2D>();
         if (animator == null) animator = GetComponent<Animator>();
         if (spriteRenderer == null) spriteRenderer = GetComponentInChildren<SpriteRenderer>();
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
 
     // Call this from PlayerHealth when you apply knockback
@@ -80,12 +83,13 @@ public class PlayerMovement : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             jumpCount++;
+            audioManager.PlaySFX(audioManager.playerJump);
         }
 
         // Flip
         if (moveInput > 0.01f) spriteRenderer.flipX = false;
+          
         else if (moveInput < -0.01f) spriteRenderer.flipX = true;
-
         // Animator
         animator.SetBool("isRunning", Mathf.Abs(moveInput) > 0.01f);
     }

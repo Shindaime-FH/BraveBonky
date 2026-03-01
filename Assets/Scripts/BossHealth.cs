@@ -6,6 +6,8 @@ public class BossHealth : MonoBehaviour
     [SerializeField] private int maxHP = 200;
     [SerializeField] private float phase2Threshold = 0.35f;
 
+    AudioManager audioManager;
+
     private int hp;
     private bool phase2Triggered;
     private bool dead;
@@ -25,6 +27,7 @@ public class BossHealth : MonoBehaviour
         flash = GetComponentInChildren<DamageFlash>();
 
         OnHealthChanged?.Invoke(hp, maxHP); // initialize UI
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
 
     public void TakeDamage(int amount)
@@ -61,6 +64,8 @@ public class BossHealth : MonoBehaviour
         {
             hp = 0;
             dead = true;
+
+            audioManager.PlaySFX(audioManager.enemyHit);
 
             if (animator != null)
             {

@@ -22,6 +22,8 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField] private float downCooldown = 0.25f;
     [SerializeField] private float bigCooldown = 0.45f;
 
+    AudioManager audioManager;
+
     private bool canAttack = true;
 
     private void Awake()
@@ -33,6 +35,8 @@ public class PlayerAttack : MonoBehaviour
         if (hitboxPierce != null) hitboxPierce.SetActive(false);
         if (hitboxDown != null) hitboxDown.SetActive(false);
         if (hitboxBig != null) hitboxBig.SetActive(false);
+
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
 
     private void Update()
@@ -55,10 +59,12 @@ public class PlayerAttack : MonoBehaviour
         else if (Input.GetKeyDown(KeyCode.J))
         {
             StartCoroutine(AttackRoutine("attackDown", downCooldown));
+            audioManager.PlaySFX(audioManager.playerAttack);
         }
         else if (Input.GetKeyDown(KeyCode.L))
         {
             StartCoroutine(AttackRoutine("attackBig", bigCooldown));
+            audioManager.PlaySFX(audioManager.playerWalk);
         }
     }
 
