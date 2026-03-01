@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class PlayerHealth : MonoBehaviour
 {
@@ -190,7 +192,17 @@ public class PlayerHealth : MonoBehaviour
         Physics2D.IgnoreLayerCollision(playerLayer, bossLayer, false);
 
         Debug.Log("PLAYER: Landed -> Death animation started");
+
+        StartCoroutine(LoadLoseScene());
     }
+
+    IEnumerator LoadLoseScene()
+    {
+        yield return new WaitForSeconds(2f); // Animation sichtbar
+
+        SceneManager.LoadScene("Lose Screen");
+    }
+
 
     public int CurrentHP => hp;
 }

@@ -1,5 +1,7 @@
-using UnityEngine;
 using System;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class BossHealth : MonoBehaviour
 {
@@ -71,7 +73,16 @@ public class BossHealth : MonoBehaviour
             {
                 animator.SetBool("isDead", true);
                 animator.SetTrigger("die");
+
+                StartCoroutine(LoadWinScene());
             }
         }
+    }
+
+    IEnumerator LoadWinScene()
+    {
+        yield return new WaitForSeconds(2f); // Animation sichtbar
+
+        SceneManager.LoadScene("Win Screen");
     }
 }
