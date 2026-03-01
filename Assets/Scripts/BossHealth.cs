@@ -1,4 +1,5 @@
 using UnityEngine;
+using System;
 
 public class BossHealth : MonoBehaviour
 {
@@ -15,11 +16,15 @@ public class BossHealth : MonoBehaviour
     public bool IsDead => dead;
     public bool Phase2Active => animator != null && animator.GetBool("phase2Active");
 
+    public event Action<int, int> OnHealthChanged;
+
     private void Awake()
     {
         hp = maxHP;
         animator = GetComponentInChildren<Animator>();
         flash = GetComponentInChildren<DamageFlash>();
+
+        OnHealthChanged?.Invoke(hp, maxHP); // initialize UI
     }
 
     public void TakeDamage(int amount)
@@ -34,6 +39,11 @@ public class BossHealth : MonoBehaviour
         }
 
         hp -= amount;
+
+        hp = Mathf.Clamp(hp, 0, maxHP);
+
+        // Notify UI
+        OnHealthChanged?.Invoke(hp, maxHP);
 
         if (animator != null)
             animator.SetTrigger("hurt");
