@@ -3,12 +3,16 @@ using UnityEngine;
 public class PlayerHealth : MonoBehaviour
 {
     [SerializeField] private int maxHP = 100;
+    [SerializeField] private Collider2D playerBodyCollider;
+    [SerializeField] private LayerMask bossBodyLayer; // optional, wenn man mit Layer arbeitest
+    private Collider2D[] ignoredBossColliders;
 
     private int hp;
 
     private Animator animator;
     private DamageFlash flash;
     private Rigidbody2D rb;
+    private PlayerMovement movement;
 
     private bool deathQueued;  // HP=0, warten auf Landung f�r Death-Anim
     private bool isDead;       // Death-Anim gestartet
@@ -19,6 +23,9 @@ public class PlayerHealth : MonoBehaviour
         animator = GetComponent<Animator>();
         flash = GetComponent<DamageFlash>();
         rb = GetComponent<Rigidbody2D>();
+        if (playerBodyCollider == null)
+            playerBodyCollider = GetComponent<Collider2D>();
+        movement = GetComponent<PlayerMovement>();
 
         animator.SetBool("isDead", false);
         animator.SetBool("deathQueued", false);
@@ -90,7 +97,8 @@ public class PlayerHealth : MonoBehaviour
             rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
 
             // Impuls hinzufügen
-            rb.AddForce(new Vector2(dir.x * knockForce, knockForce * 0.35f), ForceMode2D.Impulse);
+            rb.AddForce(new Vector2(dir.x * knockForce, knockForce * 0.1f), ForceMode2D.Impulse);
+            movement?.LockMovement(0.15f);
         }
 
         // ---------- NICHT TÖDLICH ----------
@@ -111,6 +119,25 @@ public class PlayerHealth : MonoBehaviour
         animator.ResetTrigger("attackPierce");
         animator.ResetTrigger("attackDown");
         animator.ResetTrigger("attackBig");
+
+        // Damit du beim Sterben nicht auf dem Boss "liegen bleibst": Boss SOLID colliders ignorieren
+        GameObject boss = GameObject.FindGameObjectWithTag("Boss");
+        if (boss != null && playerBodyCollider != null)
+        {
+            ignoredBossColliders = boss.GetComponentsInChildren<Collider2D>();
+            Debug.Log("Death: found boss colliders = " + ignoredBossColliders.Length);
+
+            foreach (var c in ignoredBossColliders)
+            {
+                if (c == null) continue;
+                if (c.isTrigger) continue; // Trigger behalten (TouchDamage etc.)
+                Physics2D.IgnoreCollision(playerBodyCollider, c, true);
+            }
+        }
+        else
+        {
+            Debug.LogWarning("Death: Boss not found or playerBodyCollider missing!");
+        }
 
         // Schnell runterfallen
         if (rb != null)
@@ -137,8 +164,23 @@ public class PlayerHealth : MonoBehaviour
         if (rb != null)
             rb.gravityScale = 1f;
 
+        if (ignoredBossColliders != null && playerBodyCollider != null)
+        {
+            foreach (var c in ignoredBossColliders)
+            {
+                if (c == null) continue;
+                if (c.isTrigger) continue;
+                Physics2D.IgnoreCollision(playerBodyCollider, c, false);
+            }
+        }
+
         animator.SetBool("isDead", true);
         flash?.Flash();
+
+        int playerLayer = gameObject.layer;
+        int bossLayer = LayerMask.NameToLayer("BossBody");
+        if (bossLayer != -1)
+        Physics2D.IgnoreLayerCollision(playerLayer, bossLayer, false);
 
         Debug.Log("PLAYER: Landed -> Death animation started");
     }

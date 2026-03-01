@@ -21,16 +21,20 @@ public class BossController : MonoBehaviour
     private bool started;
     private float nextActionTime;
 
+    // NEW: prevents spamming while an action animation is still playing
+    private bool isBusy;
+
     private void Awake()
     {
         if (animator == null) animator = GetComponentInChildren<Animator>();
         if (health == null) health = GetComponent<BossHealth>();
 
+        // If you renamed the objects, update these names OR (recommended) drag them in the Inspector
         if (hitboxDown == null) hitboxDown = transform.Find("BossHitbox_Down")?.GetComponent<BossAttackHitbox>();
         if (hitboxLeft == null) hitboxLeft = transform.Find("BossHitbox_Left")?.GetComponent<BossAttackHitbox>();
         if (hitboxRight == null) hitboxRight = transform.Find("BossHitbox_Right")?.GetComponent<BossAttackHitbox>();
 
-        // sicherheitshalber aus
+        // safety: start disabled
         hitboxDown?.SetActive(false);
         hitboxLeft?.SetActive(false);
         hitboxRight?.SetActive(false);
@@ -42,6 +46,8 @@ public class BossController : MonoBehaviour
         started = true;
         animator.SetBool("introDone", true);
         animator.SetBool("isInvulnerable", false);
+
+        isBusy = false;
         ScheduleNext();
     }
 
@@ -50,10 +56,11 @@ public class BossController : MonoBehaviour
         if (!started) return;
         if (health != null && health.IsDead) return;
 
-        if (Time.time >= nextActionTime)
+        // Only start a new action if we are NOT currently busy
+        if (Time.time >= nextActionTime && !isBusy)
         {
             DoRandomAction();
-            ScheduleNext();
+            // ScheduleNext() happens when the action ends (ActionFinished via Animation Event)
         }
     }
 
@@ -69,13 +76,22 @@ public class BossController : MonoBehaviour
 
     private void DoRandomAction()
     {
-        // You can tweak these weights
+        isBusy = true;
+
+        // tweak weights here
         int r = Random.Range(0, 100);
 
-        if (r < 30) animator.SetTrigger("block");      // 30% block
-        else if (r < 60) animator.SetTrigger("atkLeft");
-        else if (r < 85) animator.SetTrigger("atkRight");
-        else animator.SetTrigger("atkDown");
+        if (r < 25) animator.SetTrigger("block");      // 25% block
+        else if (r < 50) animator.SetTrigger("atkLeft");
+        else if (r < 75) animator.SetTrigger("atkRight");
+        else animator.SetTrigger("atkDown");          // 25% down (more than before)
+    }
+
+    // Called via AnimationEvent at end of any action (attack/block)
+    public void ActionFinished()
+    {
+        isBusy = false;
+        ScheduleNext();
     }
 
     // Called via AnimationEvents (Relay)
@@ -106,10 +122,17 @@ public class BossController : MonoBehaviour
     {
         animator.SetBool("isInvulnerable", true);
         animator.SetBool("phase2Active", true);
+
+        // optional: während phase 2 wird es als "beschäftigt" behandelt
+        isBusy = true;
     }
 
     public void Phase2End()
     {
         animator.SetBool("isInvulnerable", false);
+
+        // allow actions again after phase2 intro ends
+        isBusy = false;
+        ScheduleNext();
     }
 }

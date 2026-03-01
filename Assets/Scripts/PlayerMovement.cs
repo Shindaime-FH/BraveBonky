@@ -6,6 +6,9 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float moveSpeed = 6f;
     [SerializeField] private float jumpForce = 12f;
 
+    [Header("Jump Settings")]
+    [SerializeField] private int maxJumps = 2;   // 2 = double jump
+
     [Header("Ground Check")]
     [SerializeField] private Transform groundCheck;
     [SerializeField] private float groundCheckRadius = 0.18f;
@@ -18,6 +21,12 @@ public class PlayerMovement : MonoBehaviour
 
     private float moveInput;
     private bool isGrounded;
+    private bool wasGrounded;
+
+    private int jumpCount;
+
+    // Knockback / hitstun lock (prevents movement overriding knockback)
+    private float knockLockTimer;
 
     private void Awake()
     {
@@ -26,14 +35,38 @@ public class PlayerMovement : MonoBehaviour
         if (spriteRenderer == null) spriteRenderer = GetComponentInChildren<SpriteRenderer>();
     }
 
+    // Call this from PlayerHealth when you apply knockback
+    public void LockMovement(float seconds)
+    {
+        knockLockTimer = Mathf.Max(knockLockTimer, seconds);
+    }
+
     private void Update()
     {
-        if (rb.linearVelocity.x > 0.1f || rb.linearVelocity.x < -0.1f)
+        // timer runterzählen
+        if (knockLockTimer > 0f)
+            knockLockTimer -= Time.deltaTime;
+
+        // Ground check MUSS immer laufen (auch bei deathQueued), damit Death nach Landung starten kann
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+        animator.SetBool("isGrounded", isGrounded);
+
+        // JumpCount nur beim echten "Landen" resetten (false -> true)
+        if (!wasGrounded && isGrounded)
+            jumpCount = 0;
+
+        wasGrounded = isGrounded;
+
+        // Dead / deathQueued -> Input blocken, aber grounded weiter updaten
+        if (animator.GetBool("isDead") || animator.GetBool("deathQueued"))
         {
-            // optional kleine Sperre
+            moveInput = 0f;
+            animator.SetBool("isRunning", false);
+            return;
         }
-        // Block input if dead or deathQueued
-        if (animator != null && (animator.GetBool("isDead") || animator.GetBool("deathQueued")))
+
+        // Knockback lock -> Input blocken
+        if (knockLockTimer > 0f)
         {
             moveInput = 0f;
             animator.SetBool("isRunning", false);
@@ -43,13 +76,11 @@ public class PlayerMovement : MonoBehaviour
         // Input
         moveInput = Input.GetAxisRaw("Horizontal");
 
-        // Ground check
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
-
-        // Jump
-        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
+        // DOUBLE JUMP
+        if (Input.GetKeyDown(KeyCode.Space) && jumpCount < maxJumps)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+            jumpCount++;
         }
 
         // Flip
@@ -58,19 +89,19 @@ public class PlayerMovement : MonoBehaviour
 
         // Animator
         animator.SetBool("isRunning", Mathf.Abs(moveInput) > 0.01f);
-        animator.SetBool("isGrounded", isGrounded);
     }
 
     private void FixedUpdate()
     {
-        if (animator != null && (animator.GetBool("isDead") || animator.GetBool("deathQueued")))
+        if (animator.GetBool("isDead") || animator.GetBool("deathQueued"))
         {
-            // Stop horizontal movement, keep falling
             rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
             return;
         }
 
-        // APPLY MOVEMENT HERE ? (das hat gefehlt)
+        if (knockLockTimer > 0f)
+            return;
+
         rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
     }
 

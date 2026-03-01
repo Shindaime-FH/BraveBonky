@@ -705,11 +705,24 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_4
+      name: Forgotten guardian - Intro_1
       rect:
         serializedVersion: 2
         x: 38
@@ -717,7 +730,7 @@ TextureImporter:
         width: 101
         height: 49
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -731,7 +744,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_6
+      name: Forgotten guardian - Intro_2
       rect:
         serializedVersion: 2
         x: 185
@@ -739,7 +752,7 @@ TextureImporter:
         width: 103
         height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -753,7 +766,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_8
+      name: Forgotten guardian - Intro_3
       rect:
         serializedVersion: 2
         x: 332
@@ -761,7 +774,7 @@ TextureImporter:
         width: 100
         height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -775,7 +788,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_10
+      name: Forgotten guardian - Intro_4
       rect:
         serializedVersion: 2
         x: 481
@@ -783,7 +796,7 @@ TextureImporter:
         width: 103
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -797,7 +810,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_13
+      name: Forgotten guardian - Intro_5
       rect:
         serializedVersion: 2
         x: 630
@@ -805,7 +818,7 @@ TextureImporter:
         width: 104
         height: 95
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -819,7 +832,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_16
+      name: Forgotten guardian - Intro_6
       rect:
         serializedVersion: 2
         x: 777
@@ -827,7 +840,7 @@ TextureImporter:
         width: 101
         height: 110
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -841,7 +854,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_19
+      name: Forgotten guardian - Intro_7
       rect:
         serializedVersion: 2
         x: 926
@@ -849,7 +862,7 @@ TextureImporter:
         width: 99
         height: 110
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -863,7 +876,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_22
+      name: Forgotten guardian - Intro_8
       rect:
         serializedVersion: 2
         x: 1073
@@ -871,7 +884,7 @@ TextureImporter:
         width: 102
         height: 107
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -885,7 +898,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_43
+      name: Forgotten guardian - Intro_9
       rect:
         serializedVersion: 2
         x: 38
@@ -893,7 +906,7 @@ TextureImporter:
         width: 98
         height: 106
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -907,7 +920,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_44
+      name: Forgotten guardian - Intro_10
       rect:
         serializedVersion: 2
         x: 184
@@ -915,7 +928,7 @@ TextureImporter:
         width: 103
         height: 105
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -929,7 +942,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_46
+      name: Forgotten guardian - Intro_11
       rect:
         serializedVersion: 2
         x: 331
@@ -937,7 +950,7 @@ TextureImporter:
         width: 104
         height: 106
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -951,7 +964,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_47
+      name: Forgotten guardian - Intro_12
       rect:
         serializedVersion: 2
         x: 480
@@ -959,7 +972,7 @@ TextureImporter:
         width: 104
         height: 109
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -973,7 +986,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_49
+      name: Forgotten guardian - Intro_13
       rect:
         serializedVersion: 2
         x: 628
@@ -981,7 +994,7 @@ TextureImporter:
         width: 104
         height: 108
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -995,7 +1008,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_50
+      name: Forgotten guardian - Intro_14
       rect:
         serializedVersion: 2
         x: 776
@@ -1003,7 +1016,7 @@ TextureImporter:
         width: 110
         height: 106
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1017,7 +1030,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_52
+      name: Forgotten guardian - Intro_15
       rect:
         serializedVersion: 2
         x: 925
@@ -1025,7 +1038,7 @@ TextureImporter:
         width: 119
         height: 106
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1039,7 +1052,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_53
+      name: Forgotten guardian - Intro_16
       rect:
         serializedVersion: 2
         x: 1072
@@ -1047,7 +1060,7 @@ TextureImporter:
         width: 103
         height: 107
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1061,7 +1074,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_105
+      name: Forgotten guardian - Intro_17
       rect:
         serializedVersion: 2
         x: 36
@@ -1069,7 +1082,7 @@ TextureImporter:
         width: 101
         height: 115
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1083,7 +1096,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_108
+      name: Forgotten guardian - Intro_18
       rect:
         serializedVersion: 2
         x: 182
@@ -1091,7 +1104,7 @@ TextureImporter:
         width: 104
         height: 114
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1105,7 +1118,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_111
+      name: Forgotten guardian - Intro_19
       rect:
         serializedVersion: 2
         x: 331
@@ -1113,7 +1126,7 @@ TextureImporter:
         width: 113
         height: 114
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1127,7 +1140,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_113
+      name: Forgotten guardian - Intro_20
       rect:
         serializedVersion: 2
         x: 478
@@ -1135,7 +1148,7 @@ TextureImporter:
         width: 109
         height: 114
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1149,7 +1162,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_115
+      name: Forgotten guardian - Intro_21
       rect:
         serializedVersion: 2
         x: 627
@@ -1157,7 +1170,7 @@ TextureImporter:
         width: 113
         height: 114
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1171,7 +1184,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_117
+      name: Forgotten guardian - Intro_22
       rect:
         serializedVersion: 2
         x: 774
@@ -1179,7 +1192,7 @@ TextureImporter:
         width: 103
         height: 117
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1193,7 +1206,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_119
+      name: Forgotten guardian - Intro_23
       rect:
         serializedVersion: 2
         x: 923
@@ -1201,7 +1214,7 @@ TextureImporter:
         width: 107
         height: 115
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1215,7 +1228,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_121
+      name: Forgotten guardian - Intro_24
       rect:
         serializedVersion: 2
         x: 1069
@@ -1223,7 +1236,7 @@ TextureImporter:
         width: 106
         height: 119
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1237,7 +1250,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_139
+      name: Forgotten guardian - Intro_25
       rect:
         serializedVersion: 2
         x: 24
@@ -1245,7 +1258,7 @@ TextureImporter:
         width: 113
         height: 111
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1259,15 +1272,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_140
+      name: Forgotten guardian - Intro_26
       rect:
         serializedVersion: 2
         x: 168
-        y: 155
+        y: 156
         width: 117
         height: 109
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1281,15 +1294,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_145
+      name: Forgotten guardian - Intro_28
       rect:
         serializedVersion: 2
         x: 479
-        y: 159
+        y: 161
         width: 121
         height: 106
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1303,7 +1316,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_146
+      name: Forgotten guardian - Intro_29
       rect:
         serializedVersion: 2
         x: 621
@@ -1311,7 +1324,7 @@ TextureImporter:
         width: 117
         height: 99
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1325,7 +1338,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_147
+      name: Forgotten guardian - Intro_30
       rect:
         serializedVersion: 2
         x: 771
@@ -1333,7 +1346,7 @@ TextureImporter:
         width: 115
         height: 93
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1347,7 +1360,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_148
+      name: Forgotten guardian - Intro_31
       rect:
         serializedVersion: 2
         x: 919
@@ -1355,7 +1368,7 @@ TextureImporter:
         width: 114
         height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1369,7 +1382,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_149
+      name: Forgotten guardian - Intro_32
       rect:
         serializedVersion: 2
         x: 1067
@@ -1377,7 +1390,7 @@ TextureImporter:
         width: 115
         height: 93
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1391,15 +1404,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_152
+      name: Forgotten guardian - Intro_27
       rect:
         serializedVersion: 2
         x: 317
-        y: 158
+        y: 159
         width: 135
         height: 110
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1413,7 +1426,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_187
+      name: Forgotten guardian - Intro_33
       rect:
         serializedVersion: 2
         x: 31
@@ -1421,7 +1434,7 @@ TextureImporter:
         width: 115
         height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1435,7 +1448,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_191
+      name: Forgotten guardian - Intro_34
       rect:
         serializedVersion: 2
         x: 179
@@ -1443,7 +1456,7 @@ TextureImporter:
         width: 116
         height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1457,7 +1470,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Forgotten guardian - Intro_195
+      name: Forgotten guardian - Intro_35
       rect:
         serializedVersion: 2
         x: 327
@@ -1465,7 +1478,7 @@ TextureImporter:
         width: 115
         height: 92
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1493,41 +1506,31 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Forgotten guardian - Intro_0: 4586800276678963738
-      Forgotten guardian - Intro_1: 7655417394126101438
-      Forgotten guardian - Intro_10: 8195919884485883619
+      Forgotten guardian - Intro_1: -7528369642618519899
+      Forgotten guardian - Intro_10: 6888820410838028006
       Forgotten guardian - Intro_100: 7966433722792504174
       Forgotten guardian - Intro_101: 2481480659500465442
       Forgotten guardian - Intro_102: 2426174617116148668
       Forgotten guardian - Intro_103: -1650418396261110609
       Forgotten guardian - Intro_104: -4600882254591630050
-      Forgotten guardian - Intro_105: 955232483762459579
       Forgotten guardian - Intro_106: 6964065936864083311
       Forgotten guardian - Intro_107: 945392087720159047
-      Forgotten guardian - Intro_108: 8334290045839919715
       Forgotten guardian - Intro_109: -4622246325084726354
-      Forgotten guardian - Intro_11: -3833469677677688902
+      Forgotten guardian - Intro_11: -4251061276184925887
       Forgotten guardian - Intro_110: 5047849164121660271
-      Forgotten guardian - Intro_111: -6548346810252199869
       Forgotten guardian - Intro_112: 789141417307011002
-      Forgotten guardian - Intro_113: -5122643799287039441
-      Forgotten guardian - Intro_114: -8720419207380204733
-      Forgotten guardian - Intro_115: 6266955553796341960
       Forgotten guardian - Intro_116: -8355081815478234211
-      Forgotten guardian - Intro_117: 3527521959555689761
       Forgotten guardian - Intro_118: 4989179658018106286
-      Forgotten guardian - Intro_119: 5557942055427635218
-      Forgotten guardian - Intro_12: -180952917417195415
+      Forgotten guardian - Intro_12: 6988901524867344387
       Forgotten guardian - Intro_120: 1142778081077574101
-      Forgotten guardian - Intro_121: 370240410486588211
       Forgotten guardian - Intro_122: 7243459507883647979
       Forgotten guardian - Intro_123: 5152283792865216997
-      Forgotten guardian - Intro_124: -358443231989701715
       Forgotten guardian - Intro_125: -5064236648105620922
       Forgotten guardian - Intro_126: 4174919083189922016
       Forgotten guardian - Intro_127: 7290165276000496021
       Forgotten guardian - Intro_128: -7908909938669118175
       Forgotten guardian - Intro_129: -4723612409541681386
-      Forgotten guardian - Intro_13: -2631960426186484540
+      Forgotten guardian - Intro_13: -7982405731149985715
       Forgotten guardian - Intro_130: -8732379322140224068
       Forgotten guardian - Intro_131: 6821480888764659294
       Forgotten guardian - Intro_132: 1640378153099326605
@@ -1537,22 +1540,13 @@ TextureImporter:
       Forgotten guardian - Intro_136: -5579055933945346331
       Forgotten guardian - Intro_137: 439408254670488358
       Forgotten guardian - Intro_138: 6671710366964455272
-      Forgotten guardian - Intro_139: 2942322893354071723
-      Forgotten guardian - Intro_14: 6827563279280203328
-      Forgotten guardian - Intro_140: -2035889110826299452
-      Forgotten guardian - Intro_141: 462317503903823658
+      Forgotten guardian - Intro_14: 7539503181643148742
       Forgotten guardian - Intro_142: 7591602625971389535
       Forgotten guardian - Intro_143: -7886127241016294296
       Forgotten guardian - Intro_144: 7183170681102077374
-      Forgotten guardian - Intro_145: -8597138024050569462
-      Forgotten guardian - Intro_146: -621140558278556543
-      Forgotten guardian - Intro_147: -2339838905114370716
-      Forgotten guardian - Intro_148: -6809268636379789941
-      Forgotten guardian - Intro_149: -5238320568904631369
-      Forgotten guardian - Intro_15: -7416331490099122191
+      Forgotten guardian - Intro_15: 8790870589715249974
       Forgotten guardian - Intro_150: -6169496967165063035
       Forgotten guardian - Intro_151: -9080382243666906519
-      Forgotten guardian - Intro_152: 1886040282192855399
       Forgotten guardian - Intro_153: -7018276010341351863
       Forgotten guardian - Intro_154: 5262731162289628239
       Forgotten guardian - Intro_155: 6563061618547383268
@@ -1560,7 +1554,7 @@ TextureImporter:
       Forgotten guardian - Intro_157: -8377007924208170581
       Forgotten guardian - Intro_158: -6709618287554781556
       Forgotten guardian - Intro_159: -514919227993473700
-      Forgotten guardian - Intro_16: -8948299937340651553
+      Forgotten guardian - Intro_16: 6601957903891607838
       Forgotten guardian - Intro_160: 2594745975051067781
       Forgotten guardian - Intro_161: -405762639067540872
       Forgotten guardian - Intro_162: -4161021538063610988
@@ -1571,7 +1565,7 @@ TextureImporter:
       Forgotten guardian - Intro_167: -4969843733655599165
       Forgotten guardian - Intro_168: 533474791389991922
       Forgotten guardian - Intro_169: -4007537253928902293
-      Forgotten guardian - Intro_17: -1637748206521148098
+      Forgotten guardian - Intro_17: 955232483762459579
       Forgotten guardian - Intro_170: -6750286551533269680
       Forgotten guardian - Intro_171: -8333167649824711495
       Forgotten guardian - Intro_172: 8437396969721339007
@@ -1582,7 +1576,7 @@ TextureImporter:
       Forgotten guardian - Intro_177: 531808642882784328
       Forgotten guardian - Intro_178: -1157779296947473020
       Forgotten guardian - Intro_179: 2967041263069489690
-      Forgotten guardian - Intro_18: -5003310255722188483
+      Forgotten guardian - Intro_18: 8334290045839919715
       Forgotten guardian - Intro_180: -1051231815818775793
       Forgotten guardian - Intro_181: -6163813281499907118
       Forgotten guardian - Intro_182: 7930619121976653474
@@ -1590,69 +1584,56 @@ TextureImporter:
       Forgotten guardian - Intro_184: 5520605688616222467
       Forgotten guardian - Intro_185: -692611487659594281
       Forgotten guardian - Intro_186: 2372508900772726432
-      Forgotten guardian - Intro_187: 2073780581067216175
       Forgotten guardian - Intro_188: -2443928289328789973
       Forgotten guardian - Intro_189: 68718338504243295
-      Forgotten guardian - Intro_19: 9007115863754633317
+      Forgotten guardian - Intro_19: -6548346810252199869
       Forgotten guardian - Intro_190: -8789103256601797607
-      Forgotten guardian - Intro_191: 1863502766545560948
       Forgotten guardian - Intro_192: 2517361650357866907
       Forgotten guardian - Intro_193: -1229003492655206370
       Forgotten guardian - Intro_194: 6015158723159098974
-      Forgotten guardian - Intro_195: -5288716386925098926
       Forgotten guardian - Intro_196: -8413124631389051577
       Forgotten guardian - Intro_197: 976101411762289740
       Forgotten guardian - Intro_198: 5110246611609250680
       Forgotten guardian - Intro_199: -4246620910468218951
-      Forgotten guardian - Intro_2: 660401261748556222
-      Forgotten guardian - Intro_20: 3345226315595487458
+      Forgotten guardian - Intro_2: 8907982095501064592
+      Forgotten guardian - Intro_20: -5122643799287039441
       Forgotten guardian - Intro_200: 3342750242124570950
       Forgotten guardian - Intro_201: 5082826616082333589
       Forgotten guardian - Intro_202: -5627331543445010019
       Forgotten guardian - Intro_203: 1646595288414607154
-      Forgotten guardian - Intro_21: 5890726828186638458
-      Forgotten guardian - Intro_22: -6291519233670448757
-      Forgotten guardian - Intro_23: -4086968151399412422
-      Forgotten guardian - Intro_24: 2670719786370865938
-      Forgotten guardian - Intro_25: -6350323536297631919
-      Forgotten guardian - Intro_26: 3316031783170812211
-      Forgotten guardian - Intro_27: -1963370880025037787
-      Forgotten guardian - Intro_28: 6359917100815367667
-      Forgotten guardian - Intro_29: 5125906881622109249
-      Forgotten guardian - Intro_3: -8925775713323566768
-      Forgotten guardian - Intro_30: -8365992915606624406
-      Forgotten guardian - Intro_31: 7172206677409673035
-      Forgotten guardian - Intro_32: 3529421084983643414
-      Forgotten guardian - Intro_33: -7182232658572893294
-      Forgotten guardian - Intro_34: -8525326263999864770
-      Forgotten guardian - Intro_35: -6264481293239456723
+      Forgotten guardian - Intro_21: 6266955553796341960
+      Forgotten guardian - Intro_22: 3527521959555689761
+      Forgotten guardian - Intro_23: 5557942055427635218
+      Forgotten guardian - Intro_24: 370240410486588211
+      Forgotten guardian - Intro_25: 2942322893354071723
+      Forgotten guardian - Intro_26: -2035889110826299452
+      Forgotten guardian - Intro_27: 1886040282192855399
+      Forgotten guardian - Intro_28: -8597138024050569462
+      Forgotten guardian - Intro_29: -621140558278556543
+      Forgotten guardian - Intro_3: -8342206641123910266
+      Forgotten guardian - Intro_30: -2339838905114370716
+      Forgotten guardian - Intro_31: -6809268636379789941
+      Forgotten guardian - Intro_32: -5238320568904631369
+      Forgotten guardian - Intro_33: 2073780581067216175
+      Forgotten guardian - Intro_34: 1863502766545560948
+      Forgotten guardian - Intro_35: -5288716386925098926
       Forgotten guardian - Intro_36: 1100937857908872918
       Forgotten guardian - Intro_37: 6054007699184446463
       Forgotten guardian - Intro_38: 4854592168378017439
       Forgotten guardian - Intro_39: -2650482537907005650
-      Forgotten guardian - Intro_4: -7528369642618519899
+      Forgotten guardian - Intro_4: 8195919884485883619
       Forgotten guardian - Intro_40: 3385404038910770705
       Forgotten guardian - Intro_41: -1479715307135181777
-      Forgotten guardian - Intro_42: 2012710085609536300
-      Forgotten guardian - Intro_43: 5967907600543924329
-      Forgotten guardian - Intro_44: 6888820410838028006
       Forgotten guardian - Intro_45: -3856694037173868472
-      Forgotten guardian - Intro_46: -4251061276184925887
-      Forgotten guardian - Intro_47: 6988901524867344387
       Forgotten guardian - Intro_48: 1384191031872571845
-      Forgotten guardian - Intro_49: -7982405731149985715
-      Forgotten guardian - Intro_5: -3939670916562603902
-      Forgotten guardian - Intro_50: 7539503181643148742
-      Forgotten guardian - Intro_51: 383367945014546608
-      Forgotten guardian - Intro_52: 8790870589715249974
-      Forgotten guardian - Intro_53: 6601957903891607838
+      Forgotten guardian - Intro_5: -2631960426186484540
       Forgotten guardian - Intro_54: -6241300855722842361
       Forgotten guardian - Intro_55: -52402282427803505
       Forgotten guardian - Intro_56: -1809712934052569847
       Forgotten guardian - Intro_57: 5160401585547511446
       Forgotten guardian - Intro_58: -6030056448787203472
       Forgotten guardian - Intro_59: 7988809113231695456
-      Forgotten guardian - Intro_6: 8907982095501064592
+      Forgotten guardian - Intro_6: -8948299937340651553
       Forgotten guardian - Intro_60: 7785090181487530920
       Forgotten guardian - Intro_61: -5831559505663244756
       Forgotten guardian - Intro_62: -8784535330377794472
@@ -1663,7 +1644,7 @@ TextureImporter:
       Forgotten guardian - Intro_67: -1072585153728861439
       Forgotten guardian - Intro_68: 7899393047817501048
       Forgotten guardian - Intro_69: -4419074230527269933
-      Forgotten guardian - Intro_7: -6219378754649223541
+      Forgotten guardian - Intro_7: 9007115863754633317
       Forgotten guardian - Intro_70: -5814307569941144833
       Forgotten guardian - Intro_71: 5447924542305456953
       Forgotten guardian - Intro_72: 8947593511568775714
@@ -1674,7 +1655,7 @@ TextureImporter:
       Forgotten guardian - Intro_77: 8956477404461837570
       Forgotten guardian - Intro_78: 5524087416273663927
       Forgotten guardian - Intro_79: 5698526771084283741
-      Forgotten guardian - Intro_8: -8342206641123910266
+      Forgotten guardian - Intro_8: -6291519233670448757
       Forgotten guardian - Intro_80: -8427189238642867675
       Forgotten guardian - Intro_81: 2918833155963806680
       Forgotten guardian - Intro_82: 4072603496364083376
@@ -1685,7 +1666,7 @@ TextureImporter:
       Forgotten guardian - Intro_87: -9021686192220003111
       Forgotten guardian - Intro_88: -2090504309888273467
       Forgotten guardian - Intro_89: -5344561476276255995
-      Forgotten guardian - Intro_9: 3558190037369543290
+      Forgotten guardian - Intro_9: 5967907600543924329
       Forgotten guardian - Intro_90: 5198793589972751188
       Forgotten guardian - Intro_91: -2267466433786233914
       Forgotten guardian - Intro_92: 3776428096507470978

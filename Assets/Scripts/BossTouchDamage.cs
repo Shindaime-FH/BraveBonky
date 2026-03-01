@@ -29,8 +29,6 @@ using UnityEngine;
     }
 }*/
 
-using UnityEngine;
-
 public class BossTouchDamage : MonoBehaviour
 {
     [SerializeField] private int damage = 5;

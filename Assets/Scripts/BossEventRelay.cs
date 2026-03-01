@@ -10,17 +10,20 @@ public class BossEventRelay : MonoBehaviour
             controller = GetComponentInParent<BossController>();
     }
 
+    // Intro
     public void OnIntroFinished() => controller?.OnIntroFinished();
-
     public void IntroStartInvuln() => controller?.IntroStartInvuln();
     public void IntroEndInvuln() => controller?.IntroEndInvuln();
 
+    // Block
     public void BlockStart() => controller?.BlockStart();
     public void BlockEnd() => controller?.BlockEnd();
 
+    // Phase 2
     public void Phase2Start() => controller?.Phase2Start();
     public void Phase2End() => controller?.Phase2End();
 
+    // Hitboxes
     public void DownHitboxOn() => controller?.DownHitboxOn();
     public void DownHitboxOff() => controller?.DownHitboxOff();
 
@@ -29,4 +32,7 @@ public class BossEventRelay : MonoBehaviour
 
     public void RightHitboxOn() => controller?.RightHitboxOn();
     public void RightHitboxOff() => controller?.RightHitboxOff();
+
+    // NEW: end-of-action gate (anti-spam)
+    public void ActionFinished() => controller?.ActionFinished();
 }
