@@ -70,7 +70,6 @@ public class PlayerMovement : MonoBehaviour
         {
             moveInput = 0f;
             animator.SetBool("isRunning", false);
-            return;
         }
 
         // Input

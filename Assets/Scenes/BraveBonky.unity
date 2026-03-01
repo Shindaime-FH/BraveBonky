@@ -604,7 +604,7 @@ GameObject:
   - component: {fileID: 457526218}
   - component: {fileID: 457526220}
   - component: {fileID: 457526219}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: BossHitbox_Down
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -688,7 +688,7 @@ GameObject:
   - component: {fileID: 467004285}
   - component: {fileID: 467004286}
   - component: {fileID: 467004287}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: BossTouchDamage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1084,7 +1084,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1008018707}
   - component: {fileID: 1008018708}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: BossHurtbox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1372,6 +1372,7 @@ MonoBehaviour:
   bossBodyLayer:
     serializedVersion: 2
     m_Bits: 128
+  invulnAfterHit: 0.25
 --- !u!114 &1187575320
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1524,7 +1525,7 @@ GameObject:
   - component: {fileID: 1535634805}
   - component: {fileID: 1535634807}
   - component: {fileID: 1535634806}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: BossHitbox_Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2118,7 +2119,7 @@ GameObject:
   - component: {fileID: 1893325774}
   - component: {fileID: 1893325776}
   - component: {fileID: 1893325775}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: BossHitbox_Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}

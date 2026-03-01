@@ -22,7 +22,6 @@ public class PlayerAttackHitbox : MonoBehaviour
     private void TryHit(Collider2D other)
     {
         if (!active) return;
-        if (!other.CompareTag("Enemy")) return;
         if (hitThisActivation.Contains(other)) return;
 
         // BossHealth sitzt am Root => InParent!

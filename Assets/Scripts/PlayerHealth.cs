@@ -5,6 +5,7 @@ public class PlayerHealth : MonoBehaviour
     [SerializeField] private int maxHP = 100;
     [SerializeField] private Collider2D playerBodyCollider;
     [SerializeField] private LayerMask bossBodyLayer; // optional, wenn man mit Layer arbeitest
+    [SerializeField] private float invulnAfterHit = 0.25f;
     private Collider2D[] ignoredBossColliders;
 
     private int hp;
@@ -13,6 +14,7 @@ public class PlayerHealth : MonoBehaviour
     private DamageFlash flash;
     private Rigidbody2D rb;
     private PlayerMovement movement;
+    private float invulnTimer;
 
     private bool deathQueued;  // HP=0, warten auf Landung f�r Death-Anim
     private bool isDead;       // Death-Anim gestartet
@@ -33,6 +35,8 @@ public class PlayerHealth : MonoBehaviour
 
     private void Update()
     {
+        if (invulnTimer > 0f)
+            invulnTimer -= Time.deltaTime;
         // Wenn wir schon "tot" sind, aber noch nicht am Boden -> warten bis grounded
         if (deathQueued && !isDead)
         {
@@ -84,6 +88,9 @@ public class PlayerHealth : MonoBehaviour
     }*/
     public void TakeDamage(int amount, Vector2 knockDir, float knockForce)
     {
+        if (invulnTimer > 0f) return;
+            invulnTimer = invulnAfterHit;
+
         if (isDead || deathQueued) return;
 
         hp -= amount;
