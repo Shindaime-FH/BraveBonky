@@ -1371,7 +1371,7 @@ MonoBehaviour:
   playerBodyCollider: {fileID: 0}
   bossBodyLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 128
 --- !u!114 &1187575320
 MonoBehaviour:
   m_ObjectHideFlags: 0
